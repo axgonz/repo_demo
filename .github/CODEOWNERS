@@ -1,8 +1,8 @@
 # Anything in the whole repo
-* @axgonz @armsgit
+* @axgonz @axgonz1
 
 # Anything in the axgonz directory and subdirectories
-/folder1/ @axgonz
+/fodler1/ @axgonz1
 
 # Anything in the armsgit directory and subdirectories
 /folder2/ @armsgit
