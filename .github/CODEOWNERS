@@ -2,7 +2,7 @@
 # * @axgonz
 
 # Anything in the axgonz directory and subdirectories
-/fodler1/ @axgonz1
+/folder1/ @axgonz1
 
 # Anything in the armsgit directory and subdirectories
 /folder2/ @armsgit
